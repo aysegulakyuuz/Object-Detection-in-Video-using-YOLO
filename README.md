@@ -1,4 +1,4 @@
 
 🧠 Object Detection in Video using YOLO
 🎯 Proje Amacı
-Bu projenin amacı, verilen bir video dosyası boyunca insanları (veya başka bir nesne türünü) tanımak ve bu nesneleri her bir karede dikdörtgen kutularla (bounding boxes) işaretlemektir. Bu işlem sonucunda, orijinal videonun üzerine tanımlanmış dikdörtgen kutularla oluşturulmuş yeni bir çıktı videosu elde edilir.
+The aim of this project is to recognize people (or any other type of object) throughout a given video file and mark these objects with bounding boxes in each frame. This process results in a new output video with rectangular boxes defined on top of the original video.
